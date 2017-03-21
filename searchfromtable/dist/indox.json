@@ -1,0 +1,32 @@
+{
+    "nivetha":{
+        "email":"Nivetha@gmail.com",
+        "phone":"7895428760",
+        "Degree":"B.Tech"
+    },
+     "sanju":{
+        "email":"Sanju@gmail.com",
+        "phone":"8954228760",
+        "Degree":"BE"
+    },
+     "abi":{
+        "email":"Abi@gmail.com",
+        "phone":"29895428760",
+        "Degree":"BSC"
+    },
+    "navya":{
+        "email":"Navya@gmail.com",
+        "phone":"7895428760",
+        "Degree":"B.Tech"
+    },
+     "sagari":{
+        "email":"Sagari@gmail.com",
+        "phone":"8954228760",
+        "Degree":"BE"
+    },
+     "aishu":{
+        "email":"Aaishubi@gmail.com",
+        "phone":"29895428760",
+        "Degree":"BSC"
+    }
+}
